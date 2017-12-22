@@ -1,0 +1,6 @@
+﻿  AIHW1.cpp
+c:\users\tayya\source\repos\ai-hw1\ai-hw1\aihw1.cpp(713): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tayya\source\repos\ai-hw1\ai-hw1\aihw1.cpp(728): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tayya\source\repos\ai-hw1\ai-hw1\aihw1.cpp(729): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  AI-HW1.vcxproj -> C:\Users\tayya\source\repos\AI-HW1\Debug\AI-HW1.exe
+  AI-HW1.vcxproj -> C:\Users\tayya\source\repos\AI-HW1\Debug\AI-HW1.pdb (Partial PDB)
